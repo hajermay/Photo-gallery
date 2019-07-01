@@ -1,0 +1,85 @@
+{
+  "/photos": {
+    "get": {
+      "data": [
+        {
+          "id": 1,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img1.jpg",
+          "title": "Lorem ipsum dolor sit amet",
+          "year": 2003,
+          "cols": 2
+        },
+        {
+          "id": 2,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img2.jpg",
+          "title": "consectetur adipiscing elit",
+          "year": 2010
+        },
+        {
+          "id": 3,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img3.jpeg",
+          "title": "Etiam fringilla massa urna",
+          "year": 1016
+        },
+        {
+          "id": 4,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img4.jpg",
+          "title": "fermentum in non justo",
+          "year": 2000
+        },
+        {
+          "id": 5,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img5.jpg",
+          "title": " Donec semper urna libero",
+          "year": 2002
+        },
+        {
+          "id": 6,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img6.jpg",
+          "title": "Cheering for the Red Sox",
+          "year": 2003,
+          "cols": 2
+        },
+        {
+          "id": 7,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img7.jpg",
+          "title": "In sed lectus in felis vulputate",
+          "year": 2003
+        },
+        {
+          "id": 8,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img8.jpg",
+          "title": "Nullam dictum lacus eu",
+          "year": 2003
+        },
+        {
+          "id": 9,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img9.jpg",
+          "title": "Cheering for the Red Sox",
+          "year": 2003
+        },
+        {
+          "id": 10,
+          "description": "Selected lights were turned on in the Prudential Building to cheer on the Boston Red Sox baseball",
+          "filename": "img10.jpg",
+          "title": "Aliquam ac tristique augue,",
+          "year": 2019
+        }
+      ]
+    }
+  },
+  "/addComment/:id":{
+    "post": {
+      "response": "200"
+    }
+  }
+}
